@@ -35,6 +35,7 @@ OneDrive
 Azure
 
 ## Welche Cloud Deployment Modelle kennen Sie?
+prüfungs relevant
 ### Private Cloud
  In diesem Modell werden Services und Infrastruktur auf einer öffentlichen Plattform bereitgestellt und von einem externen Anbieter verwaltet. Ressourcen wie Server und Speicher sind für alle Kunden des Anbieters über das Internet zugänglich. Die Public Cloud bietet eine hohe Skalierbarkeit und ist kosten-effizient, da die Kosten für die Infrastruktur unter vielen Benutzern geteilt werden.
 
@@ -44,6 +45,17 @@ Eine Private Cloud ist exklusiv für eine einzelne Organisation reserviert. Die 
 
 ### Hybrid Cloud
  Ein Hybrid-Cloud-Modell kombiniert Elemente der Public und Private Cloud, um das Beste aus beiden Welten zu nutzen. Unternehmen können ihre kritischen Anwendungen in einer Private Cloud laufen lassen für mehr Sicherheit und Kontrolle, während weniger sensible Anwendungen in der Public Cloud gehostet werden können, um von deren Skalierbarkeit und Kosteneffizienz zu profitieren. Dieses Modell ermöglicht eine flexible und dynamische Nutzung von Ressourcen.
+
+### Community Cloud
+Meherere Firmen schliessen sich zusammen um gemainsam eine Cloud zu betreiben.
+
+## Was sind Cloud Service Modelle?
+
+Infrastructure as a Service (IaaS): Bietet grundlegende Recheninfrastruktur wie Server, Speicher und Netzwerke, die von den Kunden verwaltet und konfiguriert werden können.
+
+Platform as a Service (PaaS): Stellt Entwicklungsplattformen und -werkzeuge zur Verfügung, sodass Kunden Anwendungen erstellen, testen und ausführen können, ohne sich um die darunter liegende Hardware kümmern zu müssen.
+
+Software as a Service (SaaS): Liefert Softwareanwendungen über das Internet, die direkt in einem Webbrowser genutzt werden können, ohne dass Software lokal installiert werden muss.
 
 ## Weshalb soll ich Dienste aus der Cloud beziehen? Was sind die Vorteile?
 Skalierbarkeit: Ressourcen können je nach Bedarf angepasst werden.
