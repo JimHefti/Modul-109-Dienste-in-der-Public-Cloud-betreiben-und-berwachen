@@ -61,9 +61,13 @@ Function as a Service (FaaS) oder Serverless Computing: Ermöglicht es Entwickle
 
 ## Weshalb soll ich Dienste aus der Cloud beziehen? Was sind die Vorteile?
 Skalierbarkeit: Ressourcen können je nach Bedarf angepasst werden.
+
 Kosteneffizienz: Keine Vorabkosten für Hardware; Zahlung basiert auf Verbrauch.
+
 Zugänglichkeit: Zugriff von überall möglich, erleichtert Zusammenarbeit.
+
 Wartungsfreiheit: Wartung und Updates werden vom Anbieter übernommen.
+
 Datensicherheit: Integrierte Backup- und Recovery-Lösungen.
 
 ## Was sind die Nachteile?
