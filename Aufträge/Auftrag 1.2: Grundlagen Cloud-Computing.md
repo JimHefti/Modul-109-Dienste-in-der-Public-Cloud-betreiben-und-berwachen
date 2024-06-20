@@ -57,6 +57,8 @@ Platform as a Service (PaaS): Stellt Entwicklungsplattformen und -werkzeuge zur 
 
 Software as a Service (SaaS): Liefert Softwareanwendungen über das Internet, die direkt in einem Webbrowser genutzt werden können, ohne dass Software lokal installiert werden muss.
 
+Function as a Service (FaaS) oder Serverless Computing: Ermöglicht es Entwicklern, Code in Form von einzelnen Funktionen zu schreiben und auszuführen, die bei Bedarf aktiviert werden, ohne sich um die Verwaltung von Servern kümmern zu müssen.
+
 ## Weshalb soll ich Dienste aus der Cloud beziehen? Was sind die Vorteile?
 Skalierbarkeit: Ressourcen können je nach Bedarf angepasst werden.
 Kosteneffizienz: Keine Vorabkosten für Hardware; Zahlung basiert auf Verbrauch.
