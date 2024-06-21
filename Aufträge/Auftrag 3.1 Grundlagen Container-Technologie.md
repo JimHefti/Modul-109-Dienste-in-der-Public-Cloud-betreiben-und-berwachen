@@ -18,7 +18,18 @@ Ressourcennutzung:
 Da Container direkt auf dem Host-Betriebssystem laufen, können sie effizienter mit Systemressourcen umgehen und diese bei Bedarf teilen.
 
 
+## Nachteile von Containern gegenüber VMs:
+Sicherheit: 
+VMs bieten eine bessere Isolation, da jede VM ihr eigenes Betriebssystem hat. Bei Containern, die den Host-Kernel teilen, könnte ein kompromittierter Container theoretisch ein Sicherheitsrisiko für andere Container darstellen.
 
+Kompatibilität: 
+Container teilen sich den Kernel des Host-Betriebssystems, was bedeutet, dass ein Container nur auf Betriebssystemen laufen kann, die mit diesem Kernel kompatibel sind. VMs können dagegen verschiedene Betriebssysteme ausführen, unabhängig vom Host-System.
+
+Vollständige Isolation: 
+VMs sind komplett isoliert und betreiben ihre eigenen Kernels, was sie ideal für Anwendungen macht, die vollständige Isolation erfordern.
+
+Verwaltung: 
+VMs können einfacher zu verwalten sein, wenn es um sehr komplexe Netzwerk- oder Speicheranforderungen geht, da sie wie unabhängige Computer behandelt werden können.
 
 
 ## Welche Produkte kennen Sie im Zusammenhang mit virtuellen Servern und Container?
