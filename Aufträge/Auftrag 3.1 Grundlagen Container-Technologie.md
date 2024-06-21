@@ -92,6 +92,7 @@ Nein Grunde dafür:
 Sicherheit:
 Virtuelle Maschinen bieten eine vollständige Isolation mit eigenem Betriebssystem, was sie sicherer macht.
 
+
 Betriebssystem-Vielfalt: 
 VMs können unterschiedliche Betriebssysteme ausführen, während Container den Kernel des Host-Betriebssystems teilen müssen.
 
@@ -112,3 +113,6 @@ Manche regulatorischen Vorgaben können leichter mit der strengeren Isolation vo
 
 
 ## Was ist unterschied zwischen Self-Managed und Fully Managed? Notieren Sie sich die wichtigsten Merkmale und diskutieren Sie die Ergebnisse in der Gruppe.
+Self Managed ist wen man alles selber managen muss.
+
+Fully Managed ist wen als vom Dienstanbiter gemanged wird.
