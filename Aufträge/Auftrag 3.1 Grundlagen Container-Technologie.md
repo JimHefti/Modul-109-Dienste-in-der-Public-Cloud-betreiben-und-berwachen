@@ -5,6 +5,7 @@ Container-Technologie hilft dabei, Apps so zu verpacken, dass sie überall gleic
 
 
 ### Vorteile von Containern gegenüber VMs:
+#### prüfungs relevant
 Effizienz: 
 Container benötigen weniger Ressourcen (wie CPU und Speicher) als VMs, weil sie das Betriebssystem des Hosts teilen und nicht jedes Mal ein eigenes Betriebssystem hochfahren müssen.
 
