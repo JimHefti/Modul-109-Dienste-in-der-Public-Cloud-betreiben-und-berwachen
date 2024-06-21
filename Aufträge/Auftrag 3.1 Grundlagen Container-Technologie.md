@@ -42,7 +42,7 @@ Ich kenne VM workstation wo man drauf VMs erstellen kann ich kenne ebenfalls Vir
 
 
 ## Wie unterscheiden sich die Technologien VM und Container in Bezug auf Bereitstellung, Speicherplatz, Portabilität, Effizienz und Betriebssystem (Kernel)?
-
+### prüfungs relevant
 
  Bereitstellung:
 
