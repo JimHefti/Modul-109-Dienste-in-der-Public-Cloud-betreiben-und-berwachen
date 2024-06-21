@@ -1,1 +1,51 @@
 # Grundlagen Container-Technologie
+
+## Was ist Container-Technologie oder Container-Virtualisierung?
+Container-Technologie hilft dabei, Apps so zu verpacken, dass sie überall gleich gut funktionieren, egal wo sie laufen. Man kann sich das vorstellen wie eine Art Box, in der alles, was die App zum Laufen braucht, sicher verstaut ist. Diese Boxen sind leicht und man kann sie schnell von einem Computer zum anderen verschieben. Das ist praktisch, weil man sich keine Sorgen machen muss, dass die App plötzlich nicht mehr richtig funktioniert, nur weil sie auf einem anderen Computer läuft.
+
+
+### Vorteile von Containern gegenüber VMs:
+Effizienz: 
+Container benötigen weniger Ressourcen (wie CPU und Speicher) als VMs, weil sie das Betriebssystem des Hosts teilen und nicht jedes Mal ein eigenes Betriebssystem hochfahren müssen.
+
+Schnellere Startzeiten: 
+Container starten fast augenblicklich, weil sie nicht ein ganzes Betriebssystem booten müssen. VMs dagegen benötigen mehr Zeit, da sie ein vollständiges Betriebssystem laden.
+
+Portabilität: 
+Container enthalten alle Abhängigkeiten, die eine Anwendung benötigt. Dadurch lassen sie sich leicht von einer Umgebung in eine andere verschieben, ohne dass Konfigurationsprobleme auftreten.
+
+Ressourcennutzung: 
+Da Container direkt auf dem Host-Betriebssystem laufen, können sie effizienter mit Systemressourcen umgehen und diese bei Bedarf teilen.
+
+
+
+
+
+## Welche Produkte kennen Sie im Zusammenhang mit virtuellen Servern und Container?
+
+
+
+
+
+
+## Wie unterscheiden sich die Technologien VM und Container in Bezug auf Bereitstellung, Speicherplatz, Portabilität, Effizienz und Betriebssystem (Kernel)?
+
+
+
+
+
+
+
+
+## Können virtuelle Server immer durch Container ersetzt werden?
+
+
+
+
+
+
+
+
+
+
+## Was ist unterschied zwischen Self-Managed und Fully Managed? Notieren Sie sich die wichtigsten Merkmale und diskutieren Sie die Ergebnisse in der Gruppe.
